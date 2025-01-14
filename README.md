@@ -27,6 +27,10 @@ Before designing our product, I did research on existing online stores. I mainly
 Out of the three, Bershka's UI was the best as you can clearly see the products they're selling. I am also able to filter for the item I'm searching for, and the fonts/buttons weren't too small. This was the application I drew inspiration from.</br></br>
 <img width="1203" alt="Screenshot 2025-01-14 at 19 28 58" src="https://github.com/user-attachments/assets/44ecc21b-ddde-4f3b-a591-abf11af54114" />
 
+## User Interface Design
+I started the design process by drawing **low-fidelity** wireframes on paper, focusing on the functionality rather than appearance.</br></br>
+<img width="1000" src="https://github.com/user-attachments/assets/a02ef762-d5dc-4899-8737-660643f3525f" /></br>
+
 
 
 
