@@ -3,9 +3,11 @@ A theory-based collaborative project about designing a software system for the i
 
  <ins>**Role:**</ins></br>
  UI/UX Designer, Project lead</br>
- **Timeline:**</br>
+ <ins>**Timeline:**</ins></br>
  5 Weeks (April 2024)</br>
- **Tools:**</br> 
+ <ins>**Tools:**</ins></br> 
  StarUML, Balsamiq
+
+ 
 
 
