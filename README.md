@@ -23,7 +23,7 @@ The UML diagrams helped to capture each relationship and visualise the flow of t
 <img width="1000" src="https://github.com/user-attachments/assets/e4a4a28e-92ff-4929-bba0-e66641dfed3b"/>
 
 ## Competitive Analysis
-Before designing our product, I did research on existing online stores. I mainly focused on Shein, Bershka and Temu as they were the most popular clothing stores. During my analysis, I identified each of their strengths and weaknesses and from that saw opportunities for our own app.</br>
+Before designing our product, I did research on existing online stores. I mainly focused on Shein, Bershka and Temu as they were the most popular clothing stores. During my analysis, I identified each of their strengths and weaknesses and from that saw opportunities for our own app.</br></br>
 Out of the three, Bershka's UI was the best as you can clearly see the products they're selling. I am also able to filter for the item I'm searching for, and the fonts/buttons weren't too small. This was the application I drew inspiration from.</br></br>
 <img width="1203" alt="Screenshot 2025-01-14 at 19 28 58" src="https://github.com/user-attachments/assets/44ecc21b-ddde-4f3b-a591-abf11af54114" />
 
