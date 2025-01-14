@@ -19,7 +19,7 @@ The UML diagrams helped to capture each relationship and visualise the flow of t
 <img width="1000" src="https://github.com/user-attachments/assets/28ed400b-27a6-41f1-9061-7c2c0ab9891c"/>
 ### <ins>**Sequence Diagram**</ins>
 <img width="1000" src="https://github.com/user-attachments/assets/b7bb1291-ee7f-40a0-98d8-64a8c87c2088"/>
-### <ins>**Class Diagram**</ins>
+### <ins>**Class Diagram**</ins>
 <img width="1000" src="https://github.com/user-attachments/assets/e4a4a28e-92ff-4929-bba0-e66641dfed3b"/>
 
 
