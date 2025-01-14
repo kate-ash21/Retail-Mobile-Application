@@ -15,8 +15,11 @@ As a group we decided to build a system around the online shopping experience by
 ## UML Diagrams
 At this point of the project, we all had our individual roles. I assigned the creation of the **UML diagrams** to one of my team members, although we collectively had to understand and critique each diagram to ensure the right information is presented.</br>
 The UML diagrams helped to capture each relationship and visualise the flow of the system. They were created using **StarUML**.</br></br>
+<ins>**Use Case Diagram**</ins>
 <img width="500" src="https://github.com/user-attachments/assets/28ed400b-27a6-41f1-9061-7c2c0ab9891c"/>
+<ins>**Sequence Diagram**</ins>
 <img width="500" src="https://github.com/user-attachments/assets/b7bb1291-ee7f-40a0-98d8-64a8c87c2088"/>
+<ins>**Class Diagram**</ins>
 <img width="500" src="https://github.com/user-attachments/assets/e4a4a28e-92ff-4929-bba0-e66641dfed3b"/>
 
 
