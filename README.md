@@ -30,6 +30,10 @@ Out of the three, Bershka's UI was the best as you can clearly see the products 
 ## User Interface Design
 I started the design process by drawing **low-fidelity** wireframes on paper, focusing on the functionality rather than appearance.</br></br>
 <img width="1000" src="https://github.com/user-attachments/assets/a02ef762-d5dc-4899-8737-660643f3525f" /></br>
+### <ins>**Inspiration**</ins>
+What particularly inspired me about Bershka's design is its minimalistic style. The use of neutral colours allows the images to stand out, making it easy for the user to navigate through the app</br></br>
+<img width="1203" alt="Screenshot 2025-01-14 at 21 38 50" src="https://github.com/user-attachments/assets/95537b7c-1970-47a6-aa11-4f8cef3dd2d7" />
+
 
 
 
