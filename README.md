@@ -35,12 +35,19 @@ What particularly inspired me about Bershka's design is its minimalistic style. 
 <img width="1203" alt="Screenshot 2025-01-14 at 21 38 50" src="https://github.com/user-attachments/assets/95537b7c-1970-47a6-aa11-4f8cef3dd2d7" /></br>
 ### <ins>**Nova**</ins>
 Following my wireframes and the inspired colour scheme, I created the user interface for our online store, NOVA. I used **Balsamiq** for designing each page.</br></br>
-Below are a few examples of our design</br>
-<h5>(Images and logo was sourced from [Pinterest](https://ar.pinterest.com/pin/796855727798808595/)).</h5></br>
+<h5>(Images and logo was sourced from [Pinterest](https://ar.pinterest.com/pin/796855727798808595/))</h5></br>
 <h4 align="center"><ins>Login/Sign Up Page</ins></h4>
 <img width="1203" src="https://github.com/user-attachments/assets/889b6493-64d4-4239-8c93-64f948b89d60" /></br>
 <h4 align="center"><ins>Home and Profile Page</ins></h4>
 <img width="1203" src="https://github.com/user-attachments/assets/a7dc8429-be76-40d4-96b1-eed9d97c9936"/>
+<h4 align="center"><ins>Selecting an Item Page</ins></h4>
+<img width="1203" src="https://github.com/user-attachments/assets/47eef836-2126-4579-9298-f05bf086ce4b"/>
+<h4 align="center"><ins>Payment Page</ins></h4>
+<img width="1203" src="https://github.com/user-attachments/assets/d7682d8f-a66b-4a17-b391-531543d3b9bf"/>
+<h4 align="center"><ins>Customer Service and Return Page</ins></h4>
+<img width="1203" src="https://github.com/user-attachments/assets/2ee0e637-ecee-44c8-9d00-4e86c7de917c"/>
+<h4 align="center"><ins>Tracking Order Page</ins></h4>
+<img width="1203" src="https://github.com/user-attachments/assets/b5cbff0d-0e4e-45ea-abbb-ca70196de12e"/>
 
 ## System Tests 
 After completing the design for each screen, I presented them to my other teammates who then created **system tests** to validate the functionality of application and ensure that all requirements were being met.</br></br>
