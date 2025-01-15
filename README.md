@@ -45,7 +45,7 @@ Below are a few examples of our design</br>
 ## System Tests 
 After completing the design for each screen, I presented them to my other teammates who then created **system tests** to validate the functionality of application and ensure that all requirements were being met.</br></br>
 <img width="500" alt="test1" src="https://github.com/user-attachments/assets/c07dbeb4-a0b1-44f8-befe-73defab20bc5" /></br>
-<img width="533" alt="test2" src="https://github.com/user-attachments/assets/0be073ec-911d-4ad0-a846-9d21ed7cd234" />
+<img width="500" alt="test2" src="https://github.com/user-attachments/assets/0be073ec-911d-4ad0-a846-9d21ed7cd234" />
 
 
 
