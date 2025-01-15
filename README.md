@@ -34,10 +34,10 @@ I started the design process by drawing **low-fidelity** wireframes on paper, fo
 What particularly inspired me about Bershka's design is its minimalistic style. The use of neutral colours allows the images to stand out, making it easy for the user to navigate through the app.</br></br>
 <img width="1203" alt="Screenshot 2025-01-14 at 21 38 50" src="https://github.com/user-attachments/assets/95537b7c-1970-47a6-aa11-4f8cef3dd2d7" /></br>
 ### <ins>**Nova**</ins>
-Following my wireframes and implementing the colour scheme, provided the design shown below.</br>
+Following my wireframes and the inspired colour scheme, I created the user interface for our online store, NOVA. I used **Balsamiq** for designing each page.</br><h5>Logo taken from [Pinterest]</h5>(https://ar.pinterest.com/pin/796855727798808595/).</br>
 <h4 align="center"><ins>Login/Sign Up Page</ins></h4>
 <img width="1203" src="https://github.com/user-attachments/assets/889b6493-64d4-4239-8c93-64f948b89d60" /></br>
-<h4 align="center"><ins>Login/Sign Up Page</ins></h4>
+<h4 align="center"><ins>Home and Profile Page</ins></h4>
 <img width="1203" src="https://github.com/user-attachments/assets/a7dc8429-be76-40d4-96b1-eed9d97c9936"/>
 
 
